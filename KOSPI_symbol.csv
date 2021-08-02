@@ -1,0 +1,930 @@
+code,korname,engname
+95570,AJ네트웍스보통주,"AJ Networks Co.,Ltd."
+6840,AK홀딩스보통주,"AK Holdings, Inc."
+282330,BGF리테일보통주,BGF Retail
+27410,BGF보통주,BGF
+138930,BNK금융지주보통주,BNK Financial Group Inc.
+1465,BYC1우선주,BYC(1P)
+1460,BYC보통주,BYC
+1045,CJ1우선주,CJ(1P)
+00104K,CJ4우선주(전환),CJ(4PC)
+1040,CJ보통주,CJ Corp.
+11155,CJ씨푸드1우선주,CJSEAFOODCORPORATION(1P)
+11150,CJ씨푸드보통주,CJSEAFOODCORPORATION
+590,CS홀딩스보통주,CSHOLDINGS
+12030,DB Inc.보통주,DB Inc.
+16610,DB금융투자보통주,"DB Financial Investment Co., LTD."
+5830,DB손해보험보통주,DB INSURANCE
+995,DB하이텍1우선주,"DB HiTek Co.,LTD(1P)"
+990,DB하이텍보통주,"DB HiTek Co.,LTD"
+139130,DGB금융지주보통주,DGB Financial Group
+1530,DI동일보통주,DI DONGIL
+215,DL1우선주,DL(1P)
+1880,DL건설보통주,DLConstruction
+210,DL보통주,DL
+37550K,DL이앤씨1우선주,"DL E&C CO., LTD.(1P)"
+375500,DL이앤씨보통주,"DL E&C CO., LTD."
+155660,DSR보통주,DSR CORP
+69730,DSR제강보통주,DSRWIRECORP
+17940,E1보통주,E1Corporation
+365550,ESR켄달스퀘어리츠보통주,ESR KENDALL SQUARE REIT
+383220,F&F보통주,F&F
+7700,F&F홀딩스,F&F Holdings
+78935,GS1우선주,GS Holdings(1P)
+6360,GS건설보통주,GS Engineering & Construction Corp
+78930,GS보통주,GS Holdings
+12630,HDC보통주,"HDC HOLDINGS CO.,Ltd"
+294870,HDC현대산업개발보통주,HYUNDAI DEVELOPMENT COMPANY
+3560,IHQ보통주,IHQ
+175330,JB금융지주보통주,"JB Financial Group Co., Ltd."
+234080,JW생명과학보통주,JW LIFESCIENCE
+1065,JW중외제약1우선주,JWPHARMACEUTICAL(1P)
+1067,JW중외제약2우선주(신형),JWPHARMACEUTICAL(2PB)
+1060,JW중외제약보통주,JWPHARMACEUTICAL
+96760,JW홀딩스 보통주,JW HOLDINGS CORPORATION
+105560,KB금융지주 보통주,KB Financial Group
+9070,KCTC 보통주,KCTC
+16385,KG동부제철1우선주,KG DONGBUSTEEL(1P)
+16380,KG동부제철보통주,KG DONGBUSTEEL
+1390,KG케미칼보통주,KG Chemical
+33180,KH 필룩스보통주,"KH FEELUX Co.,Ltd."
+1940,KISCO홀딩스보통주,KISCO Holdings
+25000,KPX케미칼보통주,KPXCHEMICAL
+92230,KPX홀딩스보통주,KPXHOLDINGS
+40,KR모터스보통주,KR MOTORS
+93050,LF보통주,LF
+3555,LG1우선주,LG Corp.(1P)
+34220,LG디스플레이보통주,LG Display
+3550,LG보통주,LG Corp.
+51905,LG생활건강1우선주,"LGHOUSEHOLD&HEALTHCARE,LTD(1P)"
+51900,LG생활건강보통주,"LGHOUSEHOLD&HEALTHCARE,LTD"
+32640,LG유플러스보통주,LG Uplus
+11070,LG이노텍보통주,LG Innotek
+66575,LG전자1우선주,LGELECTRONICS(1P)
+66570,LG전자보통주,LGELECTRONICS
+51915,LG화학1우선주,"LGCHEM,LTD(1P)"
+51910,LG화학보통주,"LGCHEM,LTD"
+79550,LIG넥스원보통주,"LIG Nex1 Co., Ltd."
+10120,LS ELECTRIC보통주,LS ELECTRIC
+680,LS네트웍스보통주,LSNetworks
+6260,LS보통주,LS
+1120,LX인터내셔널보통주,LX INTERNATIONAL CORP.
+23150,MH에탄올보통주,MHETHANOL
+35420,NAVER보통주,NAVER
+181710,NHN보통주,NHN
+338100,NH프라임리츠보통주,NH Prime REIT
+34310,NICE보통주,NICEHoldings
+8260,NI스틸보통주,NI STEEL
+4255,NPC1우선주,NPC(1P)
+4250,NPC보통주,NPC
+10060,OCI보통주,OCI
+10955,S-Oil1우선주,S-Oil(1P)
+10950,S-Oil보통주,S-OilCorporation
+101060,SBS미디어홀딩스보통주,SBS Media Holdings
+5090,SGC에너지보통주,SGC Energy
+1380,SG글로벌보통주,SG GLOBAL
+1770,SHD보통주,SHIN HWA DYNAMICS
+2360,SH에너지화학보통주,SH ENERGY & CHEMICAL
+9160,SIMPAC보통주,SIMPACInc
+123700,SJM보통주,"SJM CO.,LTD"
+25530,SJM홀딩스보통주,SJM HOLDINGS
+03473K,SK1우선주,SK(1P)
+11790,SKC보통주,SKC
+18670,SK가스보통주,SKGas
+1745,SK네트웍스1우선주,"SKNetworksCo.,Ltd(1P)"
+1740,SK네트웍스보통주,"SKNetworksCo.,Ltd"
+210980,SK디앤디보통주,"SK D&D Co., Ltd"
+34730,SK보통주,SK
+361610,SK아이이테크놀로지보통주,SK ie technology
+96775,SK이노베이션 1우선주,SK Innovation(1P)
+96770,SK이노베이션 보통주,SK Innovation
+1515,SK증권1우선주,SKSecurities(1P)
+1510,SK증권보통주,SKSecurities
+28513K,SK케미칼1우선주,SKCHEMICALS(1P)
+285130,SK케미칼보통주,SKCHEMICALS
+17670,SK텔레콤보통주,SKTelecom
+64960,SNT모티브보통주,SNT MOTIV
+100840,SNT에너지보통주,"SNTEnergy Co.,Ltd."
+3570,SNT중공업보통주,SNT DYNAMICS
+36530,SNT홀딩스보통주,SNT Holdings
+5610,SPC삼립보통주,SPC SAMLIP
+11810,STX보통주,STX
+77970,STX엔진보통주,"STXEngineCo.,Ltd"
+71970,STX중공업보통주,STX Heavy Industries
+84870,TBH글로벌보통주,TBH GLOBAL
+2710,TCC스틸보통주,TCC STEEL
+24070,WISCOM보통주,WISCOM
+500,가온전선보통주,GAONCABLE
+860,강남제비스코보통주,KANGNAM JEVISCO
+35250,강원랜드보통주,"Kangwon Land, Inc."
+11420,갤럭시아에스엠보통주,GALAXIA SM
+2100,경농보통주,Kyungnong
+9450,경동나비엔보통주,KYUNGDONGNAVIEN
+267290,경동도시가스보통주,KYUNGDONG CITY GAS
+12320,경동인베스트보통주,KYUNGDONG INVEST
+50,경방보통주,Kyungbang
+214390,경보제약보통주,"KYONGBO PHARMACEUTICAL CO., LTD."
+12610,경인양행보통주,KyunginSynthetic
+9140,경인전자보통주,KyunginElectronics
+13580,계룡건설산업보통주,KyeryongConstructionIndustrial
+12205,계양전기1우선주,KeyangElectricMachinery(1P)
+12200,계양전기보통주,KeyangElectricMachinery
+2140,고려산업보통주,KoreaIndustrial
+10130,고려아연보통주,KoreaZinc
+2240,고려제강보통주,KISWire
+9290,광동제약보통주,KwangdongPharmaceutical
+17040,광명전기보통주,KWANG MYUNG ELECTRIC
+17900,광전자보통주,AUK
+37710,광주신세계보통주,GwangjuShinsegae
+30610,교보증권보통주,"KYOBOSECURITIESCO.,LTD."
+339770,교촌에프앤비보통주,KYOCHON FOOD&BEVERAGE
+7690,국도화학보통주,KukdoChemical
+5320,국동보통주,Kukdong
+1140,국보보통주,KUKBO
+2720,국제약품보통주,Kukje Pharma
+114090,그랜드코리아레저보통주,Grand Korea Leisure
+83420,그린케미칼보통주,GREEN CHEMICAL
+14530,극동유화보통주,KukdongOil&Chem.
+14285,금강공업1우선주,KUMKANG KIND(1P)
+14280,금강공업보통주,KUMKANG KIND
+8870,금비보통주,Kumbi
+1570,금양보통주,Kumyang
+2995,금호건설1우선주,KUMHOE&C(1P)
+2990,금호건설보통주,KUMHOE&C
+11785,금호석유화학1우선주,KumhoPetrochemical(1P)
+11780,금호석유화학보통주,KumhoPetrochemical
+214330,금호에이치티보통주,"Kumho HT, Inc."
+1210,금호전기보통주,KumhoElectric
+73240,금호타이어보통주,"KUMHOTIRECO.,INC"
+92440,기신정기 보통주,KISHIN CORPORATION
+270,기아보통주,KIA CORPORATION
+13700,까뮤이앤씨보통주,CAMUS ENGINEERING & CONSTRUCTION Inc.
+4545,깨끗한나라1우선주,KleanNara(1P)
+4540,깨끗한나라보통주,KleanNara
+1260,남광토건보통주,NamkwangEngineering&Construction
+8355,남선알미늄1우선주,NamsunAluminium(1P)
+8350,남선알미늄보통주,NamsunAluminium
+4270,남성보통주,Namsung
+3925,남양유업1우선주,NamyangDairyProducts(1P)
+3920,남양유업보통주,NamyangDairyProducts
+25860,남해화학보통주,NamhaeChemical
+5725,넥센1우선주,NEXEN(1P)
+5720,넥센보통주,NEXEN
+2355,넥센타이어1우선주(신형),NEXENTIRE(1PB)
+2350,넥센타이어보통주,NEXENTIRE
+3580,넥스트사이언스보통주,NEXT SCIENCE
+251270,넷마블보통주,Netmarble Corporation
+90355,노루페인트 1우선주,NOROO PAINT(1P)
+90350,노루페인트 보통주,NOROO PAINT
+325,노루홀딩스1우선주,NorooHoldings(1P)
+320,노루홀딩스보통주,NorooHoldings
+6280,녹십자보통주,Green Cross Corporation
+5257,녹십자홀딩스2우선주(신형),Green Cross Holdings Corporation(2PB)
+5250,녹십자홀딩스보통주,Green Cross Holdings Corporation
+4370,농심보통주,Nongshim
+72710,농심홀딩스보통주,NongshimHoldings
+58730,다스코보통주,Development Advance Solution
+23590,다우기술보통주,DaouTechnology
+19680,대교보통주,DAEKYO
+19685,대교우선주(신형),DAEKYO(1PB)
+6370,대구백화점보통주,DaeguDepartmentStore
+00806K,대덕1우선주,"DAEDUCK Co.,LTD(1P)"
+8060,대덕보통주,"DAEDUCK Co.,LTD"
+353200,대덕전자보통주,DaeduckElectronics
+35320K,대덕전자우선주,DaeduckElectronics(1P)
+490,대동보통주,DAEDONG CORPORATION
+8110,대동전자보통주,DAIDONGElECTRONICS
+5750,대림B&Co보통주,DAELIM B&Co
+6570,대림통상보통주,DaelimTrading
+1685,대상1우선주,Daesang(1P)
+1680,대상보통주,Daesang
+84695,대상홀딩스 1우선주,Daesang Holdings(1P)
+84690,대상홀딩스 보통주,Daesang Holdings
+128820,대성산업보통주,DAESUNG INDUSTRIAL
+117580,대성에너지보통주,DAESUNG ENERGY
+16710,대성홀딩스보통주,DAESUNG HOLDINGS
+3545,대신증권1우선주,DaishinSecurities(1P)
+3547,대신증권2우선주(신형),DAISHINSECURITIES(2PB)
+3540,대신증권보통주,DaishinSecurities
+9190,대양금속보통주,DaiyangMetal
+14160,대영포장보통주,DaeyoungPackaging
+47040,대우건설보통주,DaewooEngineering&Construction
+9320,대우전자부품보통주,DAEWOO ELECTRONIC COMPONENTS
+42660,대우조선해양보통주,DAEWOOSHIPBUILDING&MARINEENGINEERING
+3090,대웅보통주,Daewoong
+69620,대웅제약보통주,DAEWOONGPHARMACEUTICAL
+430,대원강업보통주,DaewonKangup
+6345,대원전선1우선주,DaewonCable(1P)
+6340,대원전선보통주,DaewonCable
+3220,대원제약보통주,DaewonPharmaceutical
+24890,대원화성보통주,DaewonChemical
+2880,대유에이텍,"DAYOU AUTOMOTIVE SEAT TECHNOLOGY CO.,LTD"
+300,대유플러스보통주,DAYOUPLUS
+15230,대창단조보통주,DaechangForging
+12800,대창보통주,DAECHANG
+1070,대한방직보통주,TaihanTextile
+6650,대한유화보통주,KOREA PETRO CHEMICAL IND
+1440,대한전선보통주,TaihanElectricWire
+84010,대한제강 보통주,Daehan Steel Co. Ltd.
+1795,대한제당1우선주,TS(1P)
+1790,대한제당보통주,TS
+1130,대한제분보통주,DaehanFlourMill
+3495,대한항공1우선주,KoreanAirLines(1P)
+3490,대한항공보통주,KoreanAirLines
+5880,대한해운보통주,KoreaLine
+3830,대한화섬보통주,DaehanSyntheticFibrer
+16090,대현보통주,Daehyun
+69460,대호에이엘보통주,DAEHOAL
+192080,더블유게임즈보통주,DoubleUGames
+12510,더존비즈온보통주,DOUZONE BIZON
+4835,덕성1우선주,Duksung(1P)
+4830,덕성보통주,Duksung
+24900,덕양산업보통주,DuckYangIndustry
+145720,덴티움보통주,DENTIUM
+2150,도화엔지니어링보통주,DOHWA ENGINEERING
+1230,동국제강보통주,DongkukSteelMill
+4140,동방보통주,DongbangTransport&Logistics
+7590,동방아그로보통주,DongbangAgro
+5965,동부건설1우선주,Dongbu(1P)
+5960,동부건설보통주,Dongbu Corporation
+26960,동서보통주,DONGSUH
+2210,동성제약보통주,DongsungPharmaceutical
+102260,동성케미컬보통주,"DONGSUNG CHEMICAL Co., Ltd."
+640,동아쏘시오홀딩스보통주,Dong-A Socio Holdings
+170900,동아에스티보통주,Donga ST
+28100,동아지질보통주,Dong-Ah Geological Engineering Company
+282690,동아타이어공업보통주,DONG AH TIRE
+1525,동양1우선주,TONGYANG(1P)
+1527,동양2우선주(신형),TONGYANG(2PB)
+1529,동양3우선주(신형),TONGYANG(3PB)
+84670,동양고속보통주,DONGYANG EXPRESS CORP.
+1520,동양보통주,TONGYANG
+82640,동양생명보험보통주,TONGYANG LIFE INSURANCE
+8970,동양철관보통주,DongyangSteelPipe
+92780,동양피스톤보통주,DONGYANG PISTON
+49770,동원F&B보통주,"DongwonF&B Co.,Ltd."
+18500,동원금속보통주,DONGWON METAL
+6040,동원산업보통주,DongwonIndustries
+30720,동원수산보통주,DongwonFisheries
+14825,동원시스템즈1우선주,Dongwon Systems Corporation(1P)
+14820,동원시스템즈보통주,Dongwon Systems Corporation
+163560,동일고무벨트보통주,DRB Industrial
+4890,동일산업보통주,"DONGILINDUSTRIESCO.,LTD"
+2690,동일제강보통주,"DONG IL STEEL MFG CO., LTD"
+20,동화약품보통주,DongwhaPharm
+155,두산1우선주,DOOSAN(1P)
+157,두산2우선주(신형),DOOSAN(2PB)
+241560,두산밥캣보통주,Doosan Bobcat
+150,두산보통주,DOOSAN
+42670,두산인프라코어보통주,Doosan Infracore
+34020,두산중공업보통주,DoosanHeavyIndustriesandConstruction
+33626K,두산퓨얼셀1우선주,Doosan Fuel Cell(1P)
+33626L,두산퓨얼셀2우선주(신형),Doosan Fuel Cell(2PB)
+336260,두산퓨얼셀보통주,Doosan Fuel Cell
+16740,두올보통주,DUAL
+192650,드림텍보통주,DREAMTECH
+24090,디씨엠보통주,DCMCorp.
+3160,디아이보통주,DI
+92200,디아이씨 보통주,DAE-IL Corporation
+4840,디알비동일보통주,"DRB Holding Co.,Ltd"
+13570,디와이보통주,DY Corporation
+210540,디와이파워보통주,DY POWER Corporation
+7340,디티알오토모티브보통주,DTR AUTOMOTIVE CORPORATION
+26890,디피씨보통주,DigitalPowerCommunications
+115390,락앤락보통주,"LOCK&LOCK CO.,LTD."
+32350,롯데관광개발 보통주,"LOTTE TOUR DEVELOPMENT CO., LTD"
+330590,롯데리츠보통주,LOTTE REIT
+400,롯데손해보험보통주,LotteNon-LifeInsurance
+23530,롯데쇼핑 보통주,"LOTTE SHOPPING CO., LTD."
+4000,롯데정밀화학보통주,LOTTE Fine Chemical
+286940,롯데정보통신보통주,LOTTE DATA COMMUNICATION COMPANY
+280360,롯데제과보통주,LOTTE CONF
+00499K,롯데지주1우선주,Lotte Corporation(1P)
+4990,롯데지주보통주,Lotte Corporation
+5305,롯데칠성음료1우선주,LotteChilsungBeverage(1P)
+5300,롯데칠성음료보통주,LotteChilsungBeverage
+11170,롯데케미칼보통주,LOTTE CHEMICAL CORPORATION
+2270,롯데푸드보통주,LotteFood
+71840,롯데하이마트보통주,LOTTE Himart
+27740,마니커보통주,MANIKER
+204320,만도보통주,Mando Corporation
+1080,만호제강보통주,ManhoRope&Wire
+88980,맥쿼리한국인프라투융자회사 보통주,Macquarie Korea Infrastructure Fund
+138040,메리츠금융지주회사보통주,Meritz Financial Group
+8560,메리츠증권보통주,MERITZ SECURITIES
+60,메리츠화재해상보험보통주,Meritz Fire & Marine Insurance
+90370,메타랩스보통주,METALABS
+17180,명문제약 보통주,MyungMoon Pharm
+9900,명신산업보통주,MYOUNG SHIN INDUSTRY
+12690,모나리자보통주,Monalisa
+5360,모나미보통주,Monami
+204210,모두투어리츠보통주,MODETOURREIT
+9680,모토닉보통주,MOTONIC
+9200,무림페이퍼보통주,MOORIM PAPER
+9580,무림피앤피보통주,Moorim P&P
+33920,무학보통주,Muhak
+8420,문배철강보통주,MoonbaeSteel
+25560,미래산업보통주,MiraeCorporation
+7120,미래아이앤지보통주,MiraeING
+357250,미래에셋맵스리츠보통주,Miraeasset Maps REIT 1
+94800,미래에셋맵스아시아퍼시픽부동산공모1호,MIRAEASSETMAPS ASIAPACIFIC REAL ESTATE 1
+85620,미래에셋생명보험보통주,"MIRAE ASSET Life Insurance CO., Ltd."
+6805,미래에셋증권1우선주,MIRAE ASSET SECURITIES(1P)
+00680K,미래에셋증권2우선주(신형),MIRAE ASSET SECURITIES(2PB)
+6800,미래에셋증권보통주,MIRAE ASSET SECURITIES
+2840,미원상사보통주,MiwonCommercial
+268280,미원스페셜티케미칼보통주,Miwon Specialty Chemical
+107590,미원홀딩스 보통주,"Miwon Holdings Co.,Ltd."
+134380,미원화학보통주,Miwon Chemicals
+3650,미창석유공업보통주,MichangOilInd
+155900,바다로19호선박투자회사,Badaro No.19 Ship Investment Company
+3610,방림보통주,Pangrim
+1340,백광산업보통주,PaikkwangIndustrial
+35150,백산보통주,Baiksan
+2410,범양건영보통주,BUMYANG CONSTRUCTION
+7210,벽산보통주,Byuksan
+2760,보락보통주,Bolak
+3850,보령제약보통주,BoryungPharm
+890,보해양조보통주,BohaeBrewery
+3000,부광약품보통주,BukwangPharmaceutical
+1275,부국증권1우선주,BookookSecurities(1P)
+1270,부국증권보통주,BookookSecurities
+26940,부국철강 보통주,Bookook Steel
+15350,부산도시가스보통주,BusanCityGas
+11390,부산산업보통주,BusanIndustrial
+5030,부산주공보통주,PusanCastIron
+2070,비비안보통주,VIVIEN CORPORATION
+100220,비상교육 보통주,VISANG EDUCATION INC
+30790,비케이탑스보통주,BK TOPS
+5180,빙그레보통주,Binggrae
+3960,사조대림보통주,SAJODAERIM
+8040,사조동아원보통주,SAJODONGAONE
+7160,사조산업보통주,SajoIndustries
+14710,사조씨푸드보통주,SAJOSEAFOOD
+6090,사조오양보통주,OYANG
+1470,삼부토건보통주,SambuEngineering&Construction
+6405,삼성SDI1우선주,SAMSUNG SDI(1P)
+6400,삼성SDI보통주,"SAMSUNG SDI CO.,LTD."
+6660,삼성공조보통주,"SamsungClimateControlCo.,Ltd"
+02826K,삼성물산1우선주(신형),SAMSUNG C&T CORPORATION(1PB)
+28260,삼성물산보통주,SAMSUNG C&T CORPORATION
+207940,삼성바이오로직스보통주,SAMSUNG BIOLOGICS
+32830,삼성생명보험보통주,Samsung Life Insurance
+18260,삼성에스디에스보통주,"SAMSUNG SDS CO., LTD."
+28050,삼성엔지니어링보통주,SamsungEngineering
+9155,삼성전기1우선주,SamsungElectroMechanics(1P)
+9150,삼성전기보통주,SamsungElectroMechanics
+5935,삼성전자1우선주,SamsungElectronics(1P)
+5930,삼성전자보통주,SamsungElectronics
+1360,삼성제약,SAMSUNG PHARMACEUTICAL
+10145,삼성중공업1우선주,SamsungHeavyIndustries(1P)
+10140,삼성중공업보통주,SamsungHeavyIndustries
+16360,삼성증권보통주,SamsungSecurities
+68290,삼성출판사보통주,SAMSUNG PUBLISHING
+29780,삼성카드 보통주,"SAMSUNG CARD CO., LTD."
+815,삼성화재해상보험1우선주,SamsungFire&MarineInsurance(1P)
+810,삼성화재해상보험보통주,SamsungFire&MarineInsurance
+6110,삼아알미늄보통주,SamaAluminium
+145995,삼양사1우선주,Samyang Corporation(1P)
+145990,삼양사보통주,Samyang Corporation
+3230,삼양식품보통주,SamyangFoods
+2170,삼양통상보통주,SamyangTongsang
+272550,삼양패키징보통주,SAMYANG PACKAGING
+75,삼양홀딩스1우선주,SAMYANGHOLDINGS(1P)
+70,삼양홀딩스보통주,SAMYANGHOLDINGS
+2810,삼영무역보통주,SamyungTrading
+5680,삼영전자공업보통주,SamyoungElectronics
+3720,삼영화학공업보통주,SamyoungChemical
+23000,삼원강재 보통주,"SAMWONSTEEL Co., Ltd."
+4380,삼익THK보통주,SAMICK THK
+2450,삼익악기보통주,SamickMusicalInstruments
+4440,삼일씨엔에스보통주,SAMIL C&S
+520,삼일제약보통주,SamilPharmaceutical
+9770,삼정펄프 보통주,"SAM JUNG PULP CO,.LTD."
+5500,삼진제약보통주,SamjinPharmaceutical
+4690,삼천리보통주,Samchully
+10960,삼호개발 보통주,"Samho Development Co., Ltd."
+4450,삼화왕관보통주,SamhwaCrown&Closure
+9470,삼화전기보통주,SamwhaElectric
+11230,삼화전자공업보통주,SamwhaElectronics
+1820,삼화콘덴서공업보통주,SamwhaCapacitor
+390,삼화페인트공업보통주,SamhwaPaintIndustrial
+1290,상상인증권보통주,SANGSANGININVESTMENT&SECURITIES
+41650,상신브레이크보통주,SANGSINBRAKE
+75180,새론오토모티브,SaeronAutomotiveCorporation
+7540,샘표보통주,SEMPIO
+248170,샘표식품보통주,SEMPIO FOODS
+7860,서연보통주,SEOYON
+200880,서연이화보통주,SEOYONEHWA
+17390,서울도시가스보통주,SeoulCityGas
+4415,서울식품공업1우선주,SeoulFoodInd(1P)
+4410,서울식품공업보통주,SeoulFoodInd
+21050,서원보통주,Seowon
+8490,서흥보통주,SUHEUNG
+7610,선도전기보통주,SeondoElectric
+2820,선앤엘보통주,SUN&L
+136490,선진보통주,"SUNJIN Co., Ltd"
+14915,성문전자1우선주,SungmoonElectronics(1P)
+14910,성문전자보통주,SungmoonElectronics
+3080,성보화학보통주,SungboChemical
+4985,성신양회1우선주,SungshinCement(1P)
+4980,성신양회보통주,SungshinCement
+11300,성안보통주,Seongan
+180,성창기업지주보통주,SungchangEnterpriseHoldings
+2420,세기상사보통주,TheCentury
+4365,세방1우선주,SEBANG(1P)
+4360,세방보통주,SEBANG
+4490,세방전지보통주,SEBANG GLOBAL BATTERY
+1430,세아베스틸보통주,SEAH BESTEEL
+306200,세아제강보통주,SeAH Steel Corporation
+3030,세아제강지주보통주,SeAH Steel Holdings Corporation
+19440,세아특수강보통주,SeAH SPECIAL STEEL
+58650,세아홀딩스보통주,SeAHHoldings
+13000,세우글로벌보통주,Sewooglobal
+91090,세원이앤씨보통주,"SEWON E&C CO.,LTD."
+21820,세원정공보통주,SewonPrecisionIndustry
+67830,세이브존I&C보통주,SAVEZONEI&C
+33530,세종공업보통주,"SEJONG INDUSTRIAL CO., LTD."
+75580,세진중공업보통주,"SEJIN HEAVY INDUSTRIES CO., LTD."
+27970,세하보통주,seha
+145210,세화아이엠씨보통주,"SAEHWA IMC Co.,Ltd."
+308170,센트랄모텍보통주,CENTRAL MOTEK
+12600,센트럴인사이트보통주,CENTRAL INSIGHT
+68270,셀트리온보통주,Celltrion
+33637K,솔루스첨단소재1우선주,Solus Advanced Materials(1P)
+33637L,솔루스첨단소재2우선주(신형),Solus Advanced Materials(2PB)
+336370,솔루스첨단소재보통주,Solus Advanced Materials
+248070,솔루엠보통주,SOLUM
+4430,송원산업보통주,SongwonIndustrial
+17550,수산중공업보통주,SoosanHeavyIndustries
+134790,시디즈보통주,"Sidiz,Inc"
+16590,신대양제지보통주,ShindaeyangPaper
+29530,신도리코보통주,SINDOH
+4970,신라교역보통주,Silla
+11930,신성이엔지보통주,SHINSUNG E&G
+5390,신성통상보통주,ShinsungTongsang
+34300,신세계건설,ShinsegaeEngineering&Construction
+4170,신세계보통주,"Shinsegae Co.,Ltd"
+35510,신세계아이앤씨 보통주,SHINSEGAE INFORMATION & COMMUNICATION Co
+31430,신세계인터내셔날보통주,SHINSEGAE INTERNATIONAL
+31440,신세계푸드보통주,SHINSEGAE FOOD
+6880,신송홀딩스보통주,SINGSONGHOLDINGS
+5800,신영와코루보통주,ShinyoungWacoal
+1725,신영증권1우선주,ShinyoungSecurities(1P)
+1720,신영증권보통주,ShinyoungSecurities
+9275,신원1우선주,Shinwon(1P)
+9270,신원보통주,Shinwon
+2700,신일전자보통주,SHINIL ELECTRONICS
+19175,신풍제약1우선주,ShinpoongPharmaceutical(1P)
+19170,신풍제약보통주,ShinpoongPharmaceutical
+2870,신풍제지보통주,ShinpoongPaperMfg
+55550,신한금융지주회사보통주,"ShinhanFinancialGroup Co.,Ltd."
+293940,신한알파리츠보통주,Shinhan Alpha REIT
+4080,신흥보통주,Shinhung
+102280,쌍방울,SBW
+3410,쌍용C&E보통주,SSANGYONGC&E
+3620,쌍용자동차보통주,SsangyongMotor
+4770,써니전자보통주,SunnyElectronics
+15540,쎌마테라퓨틱스보통주,THELMA Therapeutics
+4920,씨아이테크보통주,CITECH
+112610,씨에스윈드보통주,CS Wind Corporation
+120,씨제이대한통운보통주,CJ LOGISTICS
+79160,씨제이씨지브이 보통주,CJ CGV
+97955,씨제이제일제당 주식회사 1우선주,CJ CheilJedang Corp(1P)
+97950,씨제이제일제당 주식회사 보통주,CJ CheilJedang Corp
+8700,아남전자보통주,AnamElectronics
+2795,아모레G1우선주,AmoreG(1P)
+00279K,아모레G3우선주(전환),AMOREG(3PC)
+2790,아모레G보통주,AmoreG
+90435,아모레퍼시픽 1우선주,AMOREPACIFIC CORPORATION(1P)
+90430,아모레퍼시픽 보통주,AMOREPACIFIC CORPORATION
+2030,아세아보통주,ASIA HOLDINGS
+183190,아세아시멘트보통주,ASIACEMENT
+2310,아세아제지보통주,AsiaPaperManufacturing
+12170,아센디오보통주,Ascendio
+267850,아시아나IDT보통주,AsianaIDT
+20560,아시아나항공 보통주,Asiana Airlines
+122900,아이마켓코리아보통주,iMarketKorea Inc.
+10780,아이에스동서보통주,IS DONGSEO
+1780,알루코 보통주,"ALUKO CO.,LTD."
+18250,애경산업보통주,AEKYUNG INDUSTRIAL
+161000,애경유화보통주,Aekyung Petrochemical
+11090,에넥스보통주,Enex
+137310,에스디바이오센서보통주,SD Biosensor
+34120,에스비에스보통주,SEOULBROADCASTINGSYSTEM
+5850,에스엘보통주,SLCORPORATION
+12750,에스원보통주,S-1
+4060,에스지세계물산보통주,SGCORPORATION
+6125,에스케이디스커버리1우선주,"SK Discovery Co.,Ltd.(1P)"
+6120,에스케이디스커버리보통주,"SK Discovery Co.,Ltd."
+68400,에스케이렌터카보통주,SK RENT A CAR
+302440,에스케이바이오사이언스보통주,SK BIOSCIENCE
+326030,에스케이바이오팜보통주,SK BIOPHARMACEUTICALS
+660,에스케이하이닉스보통주,SK hynix
+23960,에쓰씨엔지니어링보통주,SC ENGINEERING
+298690,에어부산보통주,AirBusan
+78520,에이블씨엔씨보통주,ABLE C&C
+15260,에이엔피보통주,AUTOMOBILE&PCB
+140910,에이자기관리부동산투자회사보통주,A SELF-ADMINISTERED REAL ESTATE INVESTMENT TRUST INC.
+39570,에이치디씨아이콘트롤스보통주,"HDC I-CONTROLS CO.,LTD."
+89470,에이치디씨현대이피보통주,HDC Hyundai Engineering Plastics
+82740,에이치에스디엔진보통주,HSD Engine
+11200,에이치엠엠보통주,HMM
+7460,에이프로젠메디신보통주,Aprogen Medicines
+3060,에이프로젠제약보통주,"Aprogen pharmaceuticals,Inc."
+244920,에이플러스에셋보통주,A Plus Asset
+36570,엔씨소프트보통주,NCsoftCorporation
+138250,엔에스쇼핑보통주,"NS Shopping Co., Ltd"
+380440,엔에이치기업인수목적19호보통주,NH SPECIAL PURPOSE ACQUISITION 19 COMPANY
+5945,엔에이치투자증권1우선주,NH INVESTMENT & SECURITIES(1P)
+5940,엔에이치투자증권보통주,NH INVESTMENT & SECURITIES
+85310,엔케이 보통주,NK
+9810,엔케이물산보통주,NK MULSAN
+900140,엘브이엠씨홀딩스보통주,LVMC Holdings
+229640,엘에스전선아시아보통주,LS C&S ASIA
+108675,엘엑스하우시스1우선주,"LX HAUSYS, LTD.(1P)"
+108670,엘엑스하우시스보통주,"LX HAUSYS, LTD."
+38380K,엘엑스홀딩스1우선주,LX HOLDINGS(1P)
+383800,엘엑스홀딩스보통주,LX HOLDINGS
+37560,엘지헬로비전보통주,LG HelloVision
+97520,엠씨넥스보통주,"MCNEX Co.,Ltd."
+14440,영보화학보통주,YoungboChemical
+111770,영원무역보통주,Youngone Corporation
+9970,영원무역홀딩스보통주,YoungoneHoldings
+3520,영진약품보통주,YUNGJIN PHARM
+670,영풍보통주,Youngpoong
+6740,영풍제지보통주,YoungpoongPaperMfg
+12280,영화금속보통주,YeonghwaMetal
+12160,영흥보통주,YOUNGWIRE
+15360,예스코홀딩스보통주,Yesco Holdings
+7310,오뚜기보통주,Ottogi
+2630,오리엔트바이오보통주,ORIENTBIO
+271560,오리온보통주,ORION
+1800,오리온홀딩스보통주,ORION Holdings
+37270,와이지플러스보통주,YG PLUS
+11690,와이투솔루션보통주,Y2 Solution
+316140,우리금융지주보통주,WooriFinancialGroup
+33660,우리금융캐피탈보통주,WOORI FINANCIAL CAPITAL
+118000,우리들휴브레인보통주,WOORIDUL HUEBRAIN
+10050,우리종합금융보통주,Woori Investment Bank
+6980,우성사료보통주,WoosungFeed
+17370,우신시스템보통주,WooshinSystems
+105840,우진보통주,WOOJIN INC
+10400,우진아이엔에스보통주,WOOJINI&S
+49800,우진플라임 보통주,"WOOJIN PLAIMM CO., LTD"
+16880,웅진보통주,WOONGJIN
+95720,웅진씽크빅 보통주,"WOONGJIN THINKBIG CO., LTD."
+5820,원림보통주,Wonlim
+10600,웰바이오텍보통주,WELLBIOTEC
+8600,윌비스보통주,TheWillBes
+14830,유니드 보통주,UNID
+47400,유니온머티리얼보통주,Union Materials Corp.
+910,유니온보통주,Union
+11330,유니켐보통주,"UNI CHEM.CO.,LTD"
+77500,유니퀘스트 보통주,Uniquest Corporation
+2920,유성기업보통주,YoosungEnterprise
+700,유수홀딩스보통주,EUSU HOLDINGS
+3475,유안타증권1우선주,Yuanta Securities Korea(1P)
+3470,유안타증권보통주,Yuanta Securities Korea
+72130,유엔젤보통주,UANGEL
+225,유유제약1우선주,YuyuPharma(1P)
+227,유유제약2우선주(신형),YuyuPharma(2PB)
+220,유유제약보통주,YuyuPharma
+1200,유진투자증권보통주,EUGENE INVESTMENT & SECURITIES
+105,유한양행1우선주,Yuhan(1P)
+100,유한양행보통주,Yuhan
+3465,유화증권1우선주,YuhwaSecurities(1P)
+3460,유화증권보통주,YuhwaSecurities
+8730,율촌화학보통주,YoulchonChemical
+8250,이건산업보통주,EagonIndustrial
+25820,이구산업보통주,LeekuIndustrial
+214320,이노션보통주,INNOCEAN WORLDWIDE INC.
+88260,이리츠코크렙기업구조조정부동산투자회사보통주,E KOCREF CR-REIT
+139480,이마트보통주,"E-MART Co., Ltd."
+7660,이수페타시스보통주,ISUPETASYS
+5950,이수화학보통주,IsuChemical
+15020,이스타코보통주,e-STARCO
+93230,이아이디보통주,E Investment&Development
+74610,이엔플러스보통주,ENPLUS
+102460,이연제약보통주,REYON PHARMACEUTICAL
+84680,이월드보통주,E-WORLD
+350520,이지스레지던스리츠보통주,IGIS RESIDENCE REIT
+334890,이지스밸류플러스리츠보통주,IGIS Value Plus REIT
+760,이화산업보통주,RIFA
+14990,인디에프보통주,In the F
+101140,인바이오젠보통주,INBIOGEN
+6490,인스코비보통주,Inscobee
+23800,인지컨트롤스보통주,InziControls
+34590,인천도시가스 보통주,INCHEON CITY GAS
+129260,인터지스보통주,INTERGIS
+23810,인팩보통주,INFAC
+249420,일동제약보통주,ILDONG PHARM
+230,일동홀딩스보통주,ILDONG HOLDINGS
+13360,일성건설보통주,IlsungConstruction
+3120,일성신약보통주,IlsungPharmaceutical
+3200,일신방직보통주,IlshinSpinning
+7110,일신석재보통주,IlshinStone
+7575,일양약품1우선주,IlyangPharmaceutical(1P)
+7570,일양약품보통주,IlyangPharmaceutical
+8500,일정실업보통주,IljeongIndustrial
+81000,일진다이아몬드 보통주,"ILJIN DIAMOND CO., LTD"
+20760,일진디스플레이보통주,ILJIN DISPLAY
+20150,일진머티리얼즈보통주,ILJIN MATERIALS
+103590,일진전기 보통주,ILJIN ELECTRIC
+15860,일진홀딩스보통주,ILJINHOLDINGS
+226320,잇츠한불보통주,ITSHANBUL
+317400,자이에스앤디보통주,XI S&D
+33240,자화전자보통주,JahwaElectronics
+950,전방보통주,Chonbang
+348950,제이알글로벌리츠보통주,JR GLOBAL REIT
+194370,제이에스코퍼레이션보통주,JS Corporation
+25620,제이준코스메틱보통주,Jayjun Cosmetic
+36420,제이콘텐트리보통주,Jcontentree corp.
+30000,제일기획보통주,CheilWorldwide
+271980,제일약품보통주,JEIL PHARM
+1560,제일연마공업보통주,"CHEILGRINDINGWHEELIND.CO.,LTD"
+2620,제일파마홀딩스보통주,JEIL PHARMA HOLDINGS INC.
+6220,제주은행보통주,Jeju Bank
+89590,제주항공보통주,"JEJUAIR, CO., LTD."
+4910,조광페인트보통주,ChokwangPaint
+4700,조광피혁보통주,ChokwangLeather
+1550,조비보통주,Chobi
+480,조선내화보통주,ChosunRefractories
+120030,조선선재 보통주,"CHOSUN WELDING POHANG Co., Ltd"
+18470,조일알미늄보통주,CHOILALUMINUM
+2600,조흥보통주,CHOHEUNG CORPORATION
+63160,종근당바이오보통주,CKDBioCorporation
+185750,종근당보통주,CHONGKUNDANG
+1630,종근당홀딩스보통주,CHONGKUNDANG HOLDINGS CORP.
+70960,주식회사 용평리조트,YONG PYONG RESORT CORPORATION
+23450,주식회사동남합성,"DONGNAMCHEMICALCO,.LTD."
+2380,주식회사케이씨씨,KCC Corporation
+44380,주연테크 보통주,JOOYONTECH
+24110,중소기업은행보통주,INDUSTRIALBANKOFKOREA
+13890,지누스보통주,ZINUS
+1250,지에스글로벌보통주,GS Global Corp.
+7070,지에스리테일보통주,GS Retail
+13870,지엠비코리아보통주,GMB Korea
+71320,지역난방공사보통주,Korea District Heating
+10580,지코보통주,"JICO CO.,LTD."
+35000,지투알보통주,GⅡR Inc.
+88790,진도 보통주,"JINDO.CO.,LTD"
+3780,진양산업보통주,Chinyang Industry
+10640,진양폴리우레탄보통주,ChinYangPolyurethane
+100250,진양홀딩스보통주,Chinyang Holdings Corporation
+51630,진양화학보통주,ChinYangChemicalCorporation
+272450,진에어보통주,JIN AIR
+11000,진원생명과학보통주,GeneOneLifeScience
+2785,진흥기업1우선주(신형),CHINHUNG INT(1PB)
+2787,진흥기업2우선주(신형),CHINHUNG INT (2PB)
+2780,진흥기업보통주,ChinhungInternational
+9310,참엔지니어링보통주,Charm Engineering
+650,천일고속보통주,ChunilExpress
+33250,체시스보통주,"CHASYS Co.,Ltd"
+35720,카카오보통주,Kakao
+6380,카프로보통주,CAPRO
+109070,컨버즈보통주,CONBUZZ
+1620,케이비아이동국실업보통주,KBI DONGKOOK IND
+9440,케이씨그린홀딩스보통주,KC Green Holdings
+29460,케이씨보통주,KC
+344820,케이씨씨글라스보통주,KCC GLASS Corporation
+119650,케이씨코트렐보통주,KC Cottrell
+281820,케이씨텍보통주,KCTECH
+44450,케이에스에스 해운 보통주,KSS LINE
+92220,케이이씨 보통주,KEC Corporation
+145270,케이탑리츠보통주,KTOPREITs
+30200,케이티보통주,KTCorporation
+30210,케이티비투자증권보통주,"KTB Investment & Securities Co., Ltd"
+53210,케이티스카이라이프,"KT Skylife Co., Ltd."
+58850,케이티씨에스보통주,ktcs corporation
+58860,케이티아이에스보통주,ktis Corporation
+33780,케이티앤지보통주,KT&G Corporation
+357120,코람코에너지플러스리츠보통주,KORAMCO ENERGY PLUS REIT
+7815,코리아써키트1우선주,KoreaCircuit(1P)
+00781K,코리아써키트2우선주(신형),KOREA CIRCUIT(2PB)
+7810,코리아써키트보통주,KoreaCircuit
+3690,코리안리재보험보통주,Korean Reinsurance Company
+192820,코스맥스보통주,"COSMAX, INC."
+44820,코스맥스비티아이 주식회사 보통주,COSMAX BTI
+5070,코스모신소재보통주,CosmoAM&T
+5420,코스모화학보통주,COSMOCHEMICALCO
+71950,코아스보통주,KOAS
+2025,코오롱1우선주,KOLON CORPORATION(1P)
+3075,코오롱글로벌1우선주,KolonGlobalCorporation(1P)
+3070,코오롱글로벌보통주,KolonGlobalCorporation
+144620,코오롱머티리얼보통주,KOLON MATERIALS
+2020,코오롱보통주,KOLON CORPORATION
+120115,코오롱인더스트리1우선주,KOLON INDUSTRIES(1P)
+120110,코오롱인더스트리보통주,KOLON INDUSTRIES
+138490,코오롱플라스틱보통주,"KOLON PLASTICS, INC."
+21240,코웨이보통주,COWAY
+31820,콤텍시스템보통주,ComtecSystems
+192400,쿠쿠홀딩스보통주,"Cuckoo Holdings Co.,Ltd"
+284740,쿠쿠홈시스보통주,CUCKOO HOMESYS
+15590,큐로보통주,CURO
+26490K,크라운제과1우선주,CROWN(1P)
+264900,크라운제과보통주,CROWN
+5745,크라운해태홀딩스1우선주,CROWNHAITAI Holdings(1P)
+5740,크라운해태홀딩스보통주,CROWNHAITAI Holdings
+20120,키다리스튜디오보통주,KidariStudio
+39490,키움증권보통주,KIWOOM Securities
+14580,태경비케이보통주,TAEKYUNG BK
+15890,태경산업보통주,TaekyungIndustrial
+6890,태경케미컬보통주,"TAEKYUNGCHEMICALCO.,LTD"
+3240,태광산업보통주,TaekwangIndustrial
+11280,태림포장보통주,Tailim Packaging
+4105,태양금속공업1우선주,TaeyangMetalIndustrial(1P)
+4100,태양금속공업보통주,TaeyangMetalIndustrial
+9410,태영건설보통주,TAEYOUNG ENGINEERING & CONSTRUCTION
+9415,태영건설우선주,TAEYOUNG ENGINEERING & CONSTRUCTION(1P)
+1420,태원물산보통주,TaewonMulsan
+7980,태평양물산보통주,PAN-PACIFIC
+55490,테이팩스보통주,TAPEX
+78000,텔코웨어 보통주,TELCOWARE
+214420,토니모리보통주,"TONYMOLY Co., Ltd."
+19180,티에이치엔보통주,THN CORPORATION
+2900,티와이엠보통주,TYM CORPORATION
+36328K,티와이홀딩스1우선주,TY HOLDINGS(1P)
+363280,티와이홀딩스보통주,TY HOLDINGS
+91810,티웨이항공보통주,TWAYAIR
+4870,티웨이홀딩스보통주,T'way Holdings
+5690,파미셀보통주,Pharmicell
+36580,팜스코보통주,FARMSCO
+4720,팜젠사이언스보통주,PharmGen Science
+28670,팬오션보통주,PanOcean
+10820,퍼스텍보통주,FIRSTEC
+16800,퍼시스보통주,Fursys
+1020,페이퍼코리아보통주,PaperCorea Inc.
+90080,평화산업 주식회사 보통주,"Pyung Hwa Industrial Co., Ltd."
+10770,평화홀딩스보통주,Pyung Hwa Holdings
+58430,포스코강판보통주,POSCO COATED & COLOR STEEL
+5490,포스코보통주,POSCO
+47050,포스코인터내셔널보통주,POSCO INTERNATIONAL
+3670,포스코케미칼보통주,POSCO CHEMICAL
+7630,폴루스바이오팜보통주,POLUS BioPharm Inc.
+17810,풀무원보통주,PULMUONE
+103140,풍산 보통주,POONGSAN CORPORATION
+5810,풍산홀딩스보통주,POONGSAN HOLDINGS
+950210,프레스티지바이오파마KDR,PRESTIGE BIOPHARMA LIMITED KDR
+86790,하나금융지주보통주,HanaFinancialGroupInc.
+293480,하나제약보통주,Hana Pharm
+39130,하나투어보통주,HANATOUR SERVICE
+172580,하이골드오션12호국제선박투자회사,Hi Gold Ocean Kmarin No.12 Ship Investment Company
+153360,하이골드오션3호선박투자회사,Hi Gold Ocean No.3 Ship Investment Company
+352820,하이브보통주,HYBE
+71090,하이스틸 보통주,"HISTEEL CO., LTD."
+19490,하이트론씨스템즈보통주,HitronSystems
+87,하이트진로2우선주(신형),HITEJINRO(2PB)
+80,하이트진로보통주,HITEJINRO
+145,하이트진로홀딩스1우선주,HITEJINROHOLDINGS(1P)
+140,하이트진로홀딩스보통주,HITEJINROHOLDINGS
+36460,한국가스공사보통주,KoreaGasCorporation
+5430,한국공항보통주,KoreaAirportService
+10040,한국내화보통주,KOREAREFRACTORIES
+25540,한국단자공업보통주,KoreaElectricTerminal
+96300,한국베트남부동산개발특별자산1호투자회사,Vietnam Real Estate Development Fund1
+4090,한국석유공업보통주,KOREA PETROLEUM INDUSTRIES
+2200,한국수출포장공업보통주,KoreaExportPackagingIndustrial
+2960,한국쉘석유보통주,HankookShellOil
+240,한국앤컴퍼니보통주,HANKOOK & COMPANY
+33270,한국유나이티드제약 보통주,Korea United Pharm. Inc.
+123890,한국자산신탁보통주,KAIT
+15760,한국전력공사보통주,KoreaElectricPower
+52690,한국전력기술 보통주,KEPCO Engineering & Construction
+6200,한국전자홀딩스보통주,KEC HOLDINGS
+9540,한국조선해양보통주,KOREA SHIPBUILDING & OFFSHORE ENGINEERING
+23350,한국종합기술보통주,Korea Engineering Consultants Corp.
+25890,한국주강보통주,HankookSteel
+970,한국주철관공업보통주,KoreaCastIronPipeInd
+104700,한국철강보통주,KISCO Corp.
+17960,한국카본보통주,HankukCarbon
+161890,한국콜마보통주,KOLMAR KOREA
+24720,한국콜마홀딩스보통주,KOLMAR KOREA HOLDINGS
+161390,한국타이어앤테크놀로지보통주,HANKOOK TIRE & TECHNOLOGY
+34830,한국토지신탁보통주,KOREIT
+152550,한국투자ANKOR유전해외자원개발특별자산투자회사1호(지분증권),KIM ANKOR Oilfield Overseas Resources Development Fund[1]
+168490,한국투자Parallel유전해외자원개발특별자산투자회사1호,KIM Parallel Oilfield Overseas Resources Development Fund[1]
+71055,한국투자금융지주1우선주,KOREA INVESTMENT HOLDINGS(1P)
+71050,한국투자금융지주보통주,KOREA INVESTMENT HOLDINGS
+7280,한국특강보통주,KOREA STEEL
+10100,한국프랜지공업보통주,KoreaFlange
+47810,한국항공우주산업보통주,KOREA AEROSPACE INDUSTRIES
+123690,한국화장품보통주,HANKOOKCOSMETICS
+3350,한국화장품제조보통주,HankookCosmeticsManufacturing
+11500,한농화성보통주,HANNONGCHEMICALSINC.
+2390,한독보통주,HANDOK Inc.
+14790,한라보통주,Halla Corporation
+60980,한라홀딩스보통주,Halla Holdings Corporation
+53690,한미글로벌건축사사무소보통주,"HanmiGlobal Co., Ltd"
+42700,한미반도체보통주,"HANMISemiconductorCO.,Ltd."
+8930,한미사이언스보통주,Hanmi Science
+128940,한미약품보통주,HanmiPharm
+9240,한샘보통주,"HANSSEM CO.,LTD."
+20000,한섬보통주,HandsomeCorporation
+3680,한성기업보통주,HansungEnterprise
+105630,한세실업보통주,HANSAE
+69640,한세엠케이보통주,HANSAEMK
+16450,한세예스24홀딩스보통주,HansaeYes24Holdings
+10420,한솔PNS보통주,HANSOLPNS
+9180,한솔로지스틱스보통주,Hansol Logistics
+213500,한솔제지보통주,"Hansol Paper Co., Ltd."
+14680,한솔케미칼보통주,HansolChemical
+4710,한솔테크닉스보통주,HansolTechnics
+4150,한솔홀딩스보통주,Hansol Holdings
+25750,한솔홈데코보통주,HansolHomeDeco
+4960,한신공영보통주,HanshinConstruction
+11700,한신기계공업보통주,HanshinMachinery
+1755,한양증권1우선주,HanyangSecurities(1P)
+1750,한양증권보통주,HanyangSecurities
+18880,한온시스템보통주,Hanon Systems
+9420,한올바이오파마보통주,"HANALL BIOPHARMA CO.,LTD"
+14130,한익스프레스보통주,HanExpress
+300720,한일시멘트보통주,HANILCEMENT
+2220,한일철강보통주,HanilIron&Steel
+6390,한일현대시멘트보통주,HANIL HYUNDAI CEMENT
+3300,한일홀딩스보통주,HANILHOLDINGS
+51600,한전KPS 보통주,KEPCO Plant Service & Engineering
+130660,한전산업개발보통주,Korea Electric Power Industrial Development
+2320,한진보통주,HanjinTransportation
+97230,한진중공업 보통주,HANJIN HEAVY INDUSTRIES & CONSTRUCTION
+3480,한진중공업홀딩스보통주,HanjinHeavyInd&ConstHoldings
+18064K,한진칼1우선주,HANJINKAL(1P)
+180640,한진칼보통주,HANJINKAL
+5110,한창보통주,Hanchang
+9460,한창제지보통주,HanchangPaper
+885,한화1우선주,Hanwha(1P)
+00088K,한화3우선주(신형),HANWHA(3PB)
+880,한화보통주,Hanwha
+88350,한화생명보험보통주,HANWHA LIFE INSURANCE
+370,한화손해보험보통주,"Hanwha General Insurance Co.,Ltd."
+9835,한화솔루션1우선주,HANWHA SOLUTIONS(1P)
+9830,한화솔루션보통주,HANWHA SOLUTIONS
+272210,한화시스템보통주,HANWHA SYSTEMS
+12450,한화에어로스페이스보통주,HANWHA AEROSPACE
+3535,한화투자증권1우선주,HANWHA INVESTMENT & SECURITIES(1P)
+3530,한화투자증권보통주,HANWHA INVESTMENT & SECURITIES
+195870,해성디에스보통주,HAESUNG DS
+101530,해태제과식품주식회사,"Haitai Confectionery and Foods Co., Ltd."
+143210,핸즈코퍼레이션보통주,HANDS CORPORATION
+725,현대건설1우선주,HyundaiEngineering&Construction(1P)
+267270,현대건설기계보통주,HYUNDAI CE
+720,현대건설보통주,HyundaiEngineering&Construction
+5440,현대그린푸드보통주,HYUNDAIGREENFOOD
+86280,현대글로비스보통주,"HYUNDAIGLOVIS Co.,LTD"
+64350,현대로템보통주,HYUNDAI ROTEM
+79430,현대리바트보통주,HYUNDAILIVART
+12330,현대모비스보통주,HyundaiMobis
+10620,현대미포조선보통주,HyundaiMipoDockyard
+69960,현대백화점보통주,"HYUNDAIDEPARTMENTSTORECO.,LTD"
+4565,현대비앤지스틸1우선주,HYUNDAI BNG STEEL(1P)
+4560,현대비앤지스틸보통주,HYUNDAI BNG STEEL
+4310,현대약품보통주,Hyundai pharm
+322000,현대에너지솔루션보통주,HYUNDAI ENERGY SOLUTIONS
+17800,현대엘리베이터보통주,HyundaiElevator
+307950,현대오토에버보통주,HyundaiAutoever
+11210,현대위아보통주,HYUNDAI WIA
+267260,현대일렉트릭보통주,HYUNDAI ELECTRIC
+5385,현대자동차1우선주,HyundaiMotor(1P)
+5387,현대자동차2우선주(신형),HyundaiMotor(2PB)
+5389,현대자동차3우선주(신형),HyundaiMotor(3PB)
+5380,현대자동차보통주,HyundaiMotor
+4020,현대제철 보통주,HYUNDAI STEEL
+267250,현대중공업지주보통주,HYUNDAI HEAVY INDUSTRIES HOLDINGS
+1500,현대차증권보통주,HYUNDAI MOTOR SECURITIES
+11760,현대코퍼레이션보통주,HYUNDAI CORPORATION
+227840,현대코퍼레이션홀딩스보통주,HYUNDAI CORPORATION HOLDINGS
+126560,현대퓨처넷보통주,Hyundai Futurenet
+1450,현대해상화재보험보통주,"Hyundai MARINE & FIRE INSURANCE CO.,LTD"
+57050,현대홈쇼핑보통주,HYUNDAI HOME SHOPPING NETWORK CORPORATION
+93240,형지엘리트보통주,HYUNGJI ELITE
+3010,혜인보통주,HaeinCorporation
+111110,호전실업보통주,Hojeon
+8775,호텔신라1우선주,HotelShilla(1P)
+8770,호텔신라보통주,HotelShilla
+2460,화성산업보통주,HwasungIndustrial
+378850,화승알앤에이보통주,"HWASEUNG R&A CO., LTD."
+241590,화승엔터프라이즈보통주,HWASEUNG ENTERPRISE
+6060,화승인더스트리보통주,HSIndustries
+13520,화승코퍼레이션보통주,Hwaseung Corporation
+10690,화신보통주,Hwashin
+133820,화인베스틸보통주,FINEBESTEEL
+10660,화천기계보통주,HWACHEON MACHINERY
+850,화천기공보통주,HwacheonMachineTool
+16580,환인제약보통주,WhaninPharm
+32560,황금에스티보통주,Hwang Kum Steel & Technology
+4800,효성보통주,Hyosung
+94280,효성아이티엑스 보통주,"HYOSUNG ITX Co., Ltd."
+298040,효성중공업보통주,HYOSUNG HEAVY INDUSTRIES
+298050,효성첨단소재보통주,HYOSUNG ADVANCED MATERIALS
+298020,효성티앤씨보통주,HYOSUNG TNC
+298000,효성화학보통주,HYOSUNG CHEMICAL
+93370,후성 보통주,"FOOSUNG CO.,LTD"
+81660,휠라홀딩스보통주,Fila Holdings
+5870,휴니드테크놀러지스보통주,HuneedTechnologies
+79980,휴비스보통주,HUVIS
+5010,휴스틸보통주,HUSTEEL
+69260,휴켐스보통주,HuchemsFineChemicalCorporation
+545,흥국화재해상보험1우선주,HeungkukFire&MarineIns(1P)
+547,흥국화재해상보험2우선주(신형),HeungkukFire&MarineIns(2PB)
+540,흥국화재해상보험보통주,HeungkukFire&MarineInsurance
+3280,흥아해운보통주,HeungaShipping

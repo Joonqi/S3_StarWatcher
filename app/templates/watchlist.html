@@ -1,0 +1,53 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Watchlist
+{% endblock %}
+
+{% block lead %}
+관심 종목을 검색하고 리스트에 추가하는 페이지입니다.<br>
+NASDAQ, KOSPI 상장 종목들을 기업 이름이나 종목코드를 통해 검색할 수 있습니다.<br>
+검색어는 영어만 사용가능합니다.
+{% endblock %}
+
+{% block main_body %}
+<form method="POST" action="/star">
+  <input name="company" style="margin-bottom:10px" class="form-control" id="floatingInput" type="text" placeholder="Enter company name">
+  <input name="ticker" style="margin-bottom:10px" class="form-control" id="floatingInput" type="text" placeholder="Enter company code">
+  <input name="memo" style="margin-bottom:10px" class="form-control" id="floatingInput" type="text" placeholder="Enter memo">
+  <input type="submit" class="btn btn-primary" value="Add" />
+</form>
+
+{% if watch_list %}
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Name</th>
+      <th scope="col">Ticker</th>
+      <th scope="col">Memo</th>
+      <th scope="col">Date</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    {% for each in watch_list %}
+    <tr>
+      <th scope="row">{{ each.id }}</th>
+      <td>{{ each.name }}</td>
+      <td>{{ each.ticker }}</td>
+      <td>{{ each.memo }}</td>
+      <td>{{ each.date }}</td>
+      <td>
+        <a class="btn btn-secondary", href='/star/{{ each.ticker }}'>
+          Delete
+        </a>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+{% endif %}
+
+{% endblock %}

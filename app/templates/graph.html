@@ -1,0 +1,54 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Graphics
+{% endblock %}
+
+{% block main_body %}
+
+{% if watchlist %}
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Name</th>
+      <th scope="col">Ticker</th>
+      <th scope="col">Memo</th>
+      <th scope="col">Date</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    {% for each in watchlist %}
+    <tr>
+      <th scope="row">{{ each.id }}</th>
+      <td>{{ each.name }}</td>
+      <td>{{ each.ticker }}</td>
+      <td>{{ each.memo }}</td>
+      <td>{{ each.date }}</td>
+      <td>
+        <a class="btn btn-secondary", href='/graph/{{ each.ticker }}'>
+          PLOT
+        </a>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endif %}
+
+{% if name %}
+<p class="fs-1">
+    Closing price of {{ name }} from 2015
+  </p>
+{% endif %}
+{% if image %}
+
+<p>
+  <img src="{{ url_for('static', filename=image) }}" class="img-fluid" alt="Not Found!">
+</p>
+<a class='btn btn-secondary', href='/graph'>Back</a>
+{% endif %}
+
+
+{% endblock %}
