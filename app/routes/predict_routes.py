@@ -24,9 +24,11 @@ def import_list():
     recom = api.get_recommend(target)
     recommend = list(recom.iterrows())
 
+
     if result[2] > 0:
         color = 'table-danger table-hover'
     elif result[2] <= 0:
         color = 'table-primary table-hover'
 
-    return render_template('predict.html', watchlist=watchlist, color=color, forecast=result, recommend = recommend) 
+
+    return render_template('predict.html', watchlist=watchlist, color=color, forecast=result, recommend=recommend) 

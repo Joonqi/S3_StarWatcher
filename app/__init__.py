@@ -1,6 +1,7 @@
 # __init__.py
 
 import os
+from rq import Queue
 from flask import Flask, render_template
 from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
@@ -26,6 +27,11 @@ def create_app():
     app.register_blueprint(graph_routes.bp)
     app.register_blueprint(predict_routes.bp)
 
+    from worker import conn
+    from utils import count_words_at_url
+    q = Queue(connection=conn)
+    result=q.enqueue(count_words_at_url, 'http://heroku.com')
+    
     return app
 
 if __name__ == "__main__":

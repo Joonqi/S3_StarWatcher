@@ -1,6 +1,7 @@
 {% extends 'base.html' %}
 
 {% block title %}
+Prediction : <br>
 Machine Learning Model Forecast
 {% endblock %}
 
@@ -19,7 +20,9 @@ Machine Learning Model Forecast
       {% endfor %}
     </select>
   </div>
-  <input type="submit" class="btn btn-primary" value="Predict" />
+  <div class="d-grid gap-2 col-6 mx-auto">
+    <input type="submit" class="btn btn-outline-primary" value="Predict" />
+  </div>
 </form>
 
 {% if forecast %}
@@ -32,31 +35,34 @@ Machine Learning Model Forecast
     </tr>
   </thead>
   <tbody>
-    <tr class = {{ color }}>
+    <tr class={{ color }}>
       <td> {{ forecast[0] }} </td>
       <td> {{ forecast[1] }} </td>
       <td> {{ forecast[2] }}% </td>
     </tr> 
+  </tbody>
+</table>  
+
 {% endif %}
 
 {% if recommend %}
-<table class="table table-hover">
-    <thead>
+<table class="table table-hover"> 
+  <thead>
       <tr>
         <th scope="col">Date</th>
         <th scope="col">Firm</th>
         <th scope="col">To grade</th>
       </tr>
-    </thead>
-    <tbody>
-      {% for each in recommend %}
-      <tr>
-        <td>{{ each[0] }}</th>
-        <td>{{ each[1][0] }}</td>
-        <td>{{ each[1][1] }}</td>
-      </tr>
-      {% endfor %}
-    </tbody>
-  </table>
+  </thead>
+  <tbody>
+    {% for each in recommend %}
+    <tr>
+      <td>{{ each[0] }}</th>
+      <td>{{ each[1][0] }}</td>
+      <td>{{ each[1][1] }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
 {% endif %}
 {% endblock  %}
