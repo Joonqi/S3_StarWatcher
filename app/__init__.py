@@ -8,14 +8,17 @@ from flask_migrate import Migrate
 db = SQLAlchemy()
 migrate = Migrate()
 
-def create_app():
+def create_app(config=None):
 
     app = Flask(__name__)
-   
-    app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
-    env_config = os.getenv("APP_SETTINGS", 'config.DevelopmentConfig')
-    app.config.from_object(env_config)
+          
+    if app.config["ENV"] == 'production':
+        app.config.from_object('config.ProductionConfig')
+    else:
+        app.config.from_object('config.DevelopmentConfig')
 
+    if config is not None:
+        app.config.update(config)
 
     db.init_app(app)
     migrate.init_app(app, db)
