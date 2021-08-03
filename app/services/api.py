@@ -21,7 +21,7 @@ def plot_graph(ticker):
     plt.grid(True, axis='y')
     plt.savefig('app/static/' + new_file, dpi=400)
     plt.close('all')
-    
+
     return new_file
 
 def get_prices(ticker):
@@ -32,8 +32,13 @@ def get_prices(ticker):
 
 def get_recommend(ticker):
     target = yf.Ticker(ticker)
-    recommend = target.recommendations[-10:]
 
+    recommends = target.recommendations
+    try:
+        if recommends == None:
+            return None
+    except:
+        recommend = recommends[-10:]
     return recommend
 
 def get_forecast(ticker):

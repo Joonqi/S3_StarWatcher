@@ -22,8 +22,14 @@ def import_list():
             return "400 error", 400
     result = api.get_forecast(target)
     recom = api.get_recommend(target)
-    recommend = list(recom.iterrows())
 
+    try:
+        if recom == None:
+            recommend = False
+            
+    except:
+        recommend = list(recom.iterrows())
+    
 
     if result[2] > 0:
         color = 'table-danger table-hover'
