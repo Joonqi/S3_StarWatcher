@@ -39,4 +39,4 @@ def delete_star(ticker=None):
         return "404 error", 404
     
     else:
-        return "Delete Complete", 200
+        return redirect(url_for('.add_list'), code=200)
