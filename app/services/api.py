@@ -20,7 +20,8 @@ def plot_graph(ticker):
     plt.title(f"{name}")
     plt.grid(True, axis='y')
     plt.savefig('app/static/' + new_file, dpi=400)
-
+    plt.close('all')
+    
     return new_file
 
 def get_prices(ticker):
