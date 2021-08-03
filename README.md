@@ -1,3 +1,3 @@
 # AIB Section Project 3rd
 Watchlist for NASDAQ, KOSPI market <br>
-deployed at 'https://section3-watchapp.herokuapp.com/'
+deployed at 'https://app-star-watcher.herokuapp.com/'
