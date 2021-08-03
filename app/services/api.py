@@ -16,6 +16,7 @@ def plot_graph(ticker):
     name = Firm.query.filter(Firm.ticker==ticker).first().name
     price = get_prices(ticker)
     plt.plot(price)
+    plt.ylim(ymin=0)
     plt.title(f"{name}")
     plt.grid(True, axis='y')
     plt.savefig('app/static/' + new_file, dpi=400)
