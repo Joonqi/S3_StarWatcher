@@ -12,7 +12,7 @@ def add_list():
 
     if request.method=='GET':
 
-        watch_list = models.get_table()
+        watch_list = models.get_table()[::-1]
         return render_template('watchlist.html', watch_list=watch_list), 200
 
     if request.method=='POST':
